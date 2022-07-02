@@ -1,0 +1,24 @@
+{
+  "name": "healingtown",
+  "version": "1.0.0",
+  "description": "Website for Healing Town",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jh-yng/healingTownGitHub.git"
+  },
+  "keywords": [
+    "healing",
+    "town"
+  ],
+  "author": "Joshua Jaeuk Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jh-yng/healingTownGitHub/issues"
+  },
+  "homepage": "https://github.com/jh-yng/healingTownGitHub#readme"
+}
